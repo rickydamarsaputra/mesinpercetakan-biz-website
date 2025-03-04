@@ -35,7 +35,7 @@ require_once('const.php');
   <meta name="twitter:site" content="https://mesinpercetakan.com" />
 
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FPFX21LX2"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-31CNNHMJNK"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -44,8 +44,27 @@ require_once('const.php');
     }
     gtag('js', new Date());
 
-    gtag('config', 'G-7FPFX21LX2');
+    gtag('config', 'G-31CNNHMJNK');
   </script>
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W8FZLNTV');
+  </script>
+  <!-- End Google Tag Manager -->
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
     integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
@@ -54,6 +73,10 @@ require_once('const.php');
 </head>
 
 <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8FZLNTV"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
   <div id="app">
     <!-- HEADER -->
     <header class="border-b-2 py-4">
