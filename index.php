@@ -11,7 +11,7 @@ require_once('const.php');
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
   <meta name="author" content="Vicentra Dev" />
   <meta name="description"
-    content="Vicentra adalah penyedia mesin percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
+    content="Vicentra, penyedia mesin cetak offset, digital, sablon, spanduk & stiker terpercaya di Indonesia, dengan layanan purna jual profesional. Hubungi kami sekarang!" />
   <meta name="keywords" content="mesin percetakan, mesin cetak offset, mesin digital printing, mesin cetak spanduk, mesin cetak stiker, mesin percetakan murah, jual mesin percetakan, harga mesin percetakan, distributor mesin percetakan, mesin percetakan terbaik">
   <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
 
@@ -21,7 +21,7 @@ require_once('const.php');
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Vicentra - Distributor Mesin Percetakan Offset, Digital & Layanan Terbaik" />
   <meta property="og:description"
-    content="Vicentra adalah penyedia mesin percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
+    content="Vicentra, penyedia mesin cetak offset, digital, sablon, spanduk & stiker terpercaya di Indonesia, dengan layanan purna jual profesional. Hubungi kami sekarang!" />
   <meta property="og:image" content="https://mesinpercetakan.com/assets/images/logo-vicentra-black.webp" />
   <meta property="og:url" content="https://mesinpercetakan.com" />
   <meta property="og:site_name" content="Vicentra - Distributor Mesin Percetakan Offset, Digital & Layanan Terbaik" />
@@ -30,7 +30,7 @@ require_once('const.php');
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Vicentra - Distributor Mesin Percetakan Offset, Digital & Layanan Terbaik" />
   <meta name="twitter:description"
-    content="Vicentra adalah penyedia mesin percetakan terpercaya di Indonesia, menawarkan mesin offset, digital, sablon, spanduk, stiker, serta layanan purna jual profesional untuk bisnis percetakan besar maupun rumahan. Hubungi kami sekarang!" />
+    content="Vicentra, penyedia mesin cetak offset, digital, sablon, spanduk & stiker terpercaya di Indonesia, dengan layanan purna jual profesional. Hubungi kami sekarang!" />
   <meta name="twitter:image" content="https://mesinpercetakan.com/assets/images/logo-vicentra-black.webp" />
   <meta name="twitter:site" content="https://mesinpercetakan.com" />
 
@@ -118,6 +118,216 @@ require_once('const.php');
             <p class="text-justify">
               Apakah Anda sedang mencari mesin percetakan yang andal untuk meningkatkan kualitas dan efisiensi bisnis Anda? Kami telah mengumpulkan beberapa rekomendasi mesin percetakan terbaik, mulai dari mesin cetak offset, mesin digital printing, hingga mesin cetak spanduk dan mesin cetak stiker yang cocok untuk berbagai kebutuhan. Temukan pilihan mesin percetakan murah dengan kualitas tinggi dari berbagai distributor mesin percetakan terpercaya. Kami juga menyediakan informasi mengenai harga mesin percetakan terbaru serta tempat jual mesin percetakan yang bisa Anda pertimbangkan. Yuk, simak daftarnya di bawah ini dan pilih mesin yang paling sesuai untuk bisnis Anda!
             </p>
+          </div>
+          <div class="my-[1.875rem]">
+            <h2 class="text-xl font-semibold text-gray-800">NEU Jet C4K MESIN PRINTER OUTDOOR C4K 512i</h2>
+            <a href="https://vicentra.co.id/product/mesin/digital-printing/outdoor/neu-jet-mpoc4k" class="detail_produk" target="_blank">
+              <figure class="mt-4">
+                <img src="./assets/images/mesin/new-jet-c4k.webp"
+                  alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full lg:w-[50%]">
+                <figcaption class="text-center">printer-outdoor-neu-jet-c4k</figcaption>
+              </figure>
+            </a>
+            <p class="text-justify mt-4">
+              Butuh printer untuk kebutuhan outdoor dengan hasil cetak tajam dan tahan lama? <a href="https://vicentra.co.id/product/mesin/digital-printing/outdoor/neu-jet-mpoc4k" class="underline">NEU Jet C4K</a> siap memenuhi kebutuhan Anda. Ideal untuk mencetak spanduk, baliho, dan media luar ruang lainnya. Mesin ini sangat cocok bagi Anda yang ingin terjun ke bisnis periklanan atau jasa percetakan outdoor. Klik gambar untuk detail produk.
+            </p>
+            <div class="grid grid-cols-2 gap-4">
+              <a href="https://vicentra.co.id/product/mesin/digital-printing/outdoor/neu-jet-mpoc4k" class="detail_produk" target="_blank">
+                <figure class="mt-4">
+                  <img src="https://vicentra.co.id/storage/product-medias/001-printer-outdoor-neu-jet-mpoc4k-002.webp"
+                    alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full">
+                  <figcaption class="text-center">printer-outdoor-neu-jet-c4k</figcaption>
+                </figure>
+              </a>
+              <a href="https://vicentra.co.id/product/mesin/digital-printing/outdoor/neu-jet-mpoc4k" class="detail_produk" target="_blank">
+                <figure class="mt-4">
+                  <img src="https://vicentra.co.id/storage/product-medias/001-printer-outdoor-neu-jet-mpoc4k-003.webp"
+                    alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full">
+                  <figcaption class="text-center">printer-outdoor-neu-jet-c4k</figcaption>
+                </figure>
+              </a>
+            </div>
+            <p class="text-justify mt-4">
+              Kami perkenalkan Mesin Printer <a href="https://vicentra.co.id/product/mesin/digital-printing/outdoor/neu-jet-mpoc4k" class="underline">NEU Jet C4K</a>, printer canggih yang dilengkapi dengan 4 printhead Piezo-Electric tipe 512i (30PL) untuk mendukung pencetakan dengan kecepatan dan kualitas tinggi. Printer ini menggunakan sistem Roll-to-Roll yang fleksibel, serta mendukung berbagai mode kecepatan cetak, yaitu hingga 120 m² pada 2 pass, 80 m² pada 3 pass, dan 62,5 m² pada 4 pass. Dengan software RIP Photoprint, printer ini mampu menghasilkan detail yang tajam pada berbagai media.
+            </p>
+            <h2 class="font-semibold mt-4">Keunggulan:</h2>
+            <ul class="list-disc pl-4">
+              <li>
+                4 printhead Piezo-Electric 512i (30PL) untuk hasil cetak berkualitas tinggi.
+              </li>
+              <li>
+                Kecepatan cetak hingga 120 m² (2 pass) untuk produksi besar.
+              </li>
+              <li>
+                Sistem Roll-to-Roll yang fleksibel untuk berbagai jenis media.
+              </li>
+              <li>
+                Sistem suction material yang dapat disesuaikan untuk stabilitas media.
+              </li>
+              <li>
+                Lampu LED area cetak untuk memudahkan pengawasan proses cetak.
+              </li>
+              <li>
+                Konsumsi daya optimal sebesar 4000 watt.
+              </li>
+            </ul>
+          </div>
+          <div class="my-[1.875rem]">
+            <h2 class="text-xl font-semibold text-gray-800">Nocai NC-UV0609MAX MESIN UV FLATBED NOCAI MAX - UV 0609 PEIII</h2>
+            <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" class="detail_produk" target="_blank">
+              <figure class="mt-4">
+                <img src="https://vicentra.co.id/storage/product-medias/019-printer-uv-nocaimax0609peiii-001.webp"
+                  alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full lg:w-[50%]">
+                <figcaption class="text-center">printer-uv-flatbed-nocai-nc-uv0609max</figcaption>
+              </figure>
+            </a>
+            <p class="text-justify mt-4">
+              Untuk Anda yang mencari mesin cetak UV dengan fleksibilitas tinggi, <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" class="underline">Nocai NC-UV0609MAX</a> menawarkan kemampuan mencetak pada berbagai permukaan dengan hasil memukau. Cocok untuk mencetak pada kaca, logam, kayu, dan bahan lainnya. Mesin ini pas bagi Anda yang ingin membuka usaha di bidang percetakan custom seperti casing handphone, panel dekoratif, atau merchandise eksklusif. Klik gambar untuk mengetahui lebih lanjut.
+            </p>
+            <div class="grid grid-cols-2 gap-4">
+              <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" class="detail_produk" target="_blank">
+                <figure class="mt-4">
+                  <img src="https://vicentra.co.id/storage/product-medias/019-printer-uv-nocaimax0609peiii-002.webp"
+                    alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full">
+                  <figcaption class="text-center">printer-uv-nocai-nc-uv0609max</figcaption>
+                </figure>
+              </a>
+              <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" class="detail_produk" target="_blank">
+                <figure class="mt-4">
+                  <img src="https://vicentra.co.id/storage/product-medias/019-printer-uv-nocaimax0609peiii-003.webp"
+                    alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full">
+                  <figcaption class="text-center">printer-uv-nocai-nc-uv0609max</figcaption>
+                </figure>
+              </a>
+            </div>
+            <p class="text-justify mt-4">
+              Kami perkenalkan <a href="https://vicentra.co.id/product/mesin/digital-printing/uv/nocai-nc-uv0609max" class="underline">Nocai NC-UV0609MAX</a>, printer UV flatbed profesional yang dilengkapi dengan 3 printhead EPSON i3200-U1 Micro Piezo dengan teknologi UV curing modern. Mesin ini dirancang untuk menghasilkan cetakan berkualitas tinggi dengan resolusi maksimal hingga 2400dpi.
+            </p>
+            <p class="text-justify mt-4">
+              Mesin ini menggunakan sistem CISS (Continuous Ink Supply System) dan teknologi UV LED lamp dengan air cooling untuk hasil optimal. Mampu menangani material dengan ketebalan 0-180 mm dan diameter silinder 30-120 mm untuk mode rotary.
+            </p>
+            <h2 class="font-semibold mt-4">Keunggulan:</h2>
+            <ul class="list-disc pl-4">
+              <li>
+                3 printhead EPSON presisi tinggi dengan nozzle 600×4
+              </li>
+              <li>
+                Resolusi ultra tinggi 2400dpi untuk detail maksimal
+              </li>
+              <li>
+                Mode cetak CMYK+W dan CMYK+W+V (Varnish)
+              </li>
+              <li>
+                Sistem tinta kontinyu untuk produksi efisien
+              </li>
+              <li>
+                Motor servo dengan silent linear guideway dan screw drive
+              </li>
+              <li>
+                Sistem pengeringan UV LED dengan air cooling
+              </li>
+              <li>
+                Area cetak fleksibel (600×900mm / 600×870mm dengan varnish)
+              </li>
+              <li>
+                Mendukung berbagai material printing
+              </li>
+              <li>
+                Konstruksi premium dengan berat 226 kg
+              </li>
+              <li>
+                Sistem operasi yang stabil dengan RAM >6Gb
+              </li>
+            </ul>
+          </div>
+          <div class="my-[1.875rem]">
+            <h2 class="text-xl font-semibold text-gray-800">FORTIS 490 ST MESIN POTONG KERTAS FORTIS MP490 ST</h2>
+            <a href="https://vicentra.co.id/product/mesin/finishing/potong-kertas/fortis-mpkfmp490st" class="detail_produk" target="_blank">
+              <figure class="mt-4">
+                <img src="https://vicentra.co.id/storage/product-medias/028-web-paper-cutting-fortis-490st.webp"
+                  alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full lg:w-[50%]">
+                <figcaption class="text-center">potong-kertas-fortis-490-st</figcaption>
+              </figure>
+            </a>
+            <p class="text-justify mt-4">
+              Memastikan potongan kertas yang presisi adalah kunci dalam dunia percetakan. <a href="https://vicentra.co.id/product/mesin/finishing/potong-kertas/fortis-mpkfmp490st" class="underline">FORTIS 490 ST</a> hadir dengan teknologi terkini untuk memastikan setiap potongan sempurna. Ideal untuk usaha percetakan buku, brosur, atau dokumen lainnya.
+            </p>
+            <p class="text-justify mt-4">
+              Kami perkenalkan <a href="https://vicentra.co.id/product/mesin/finishing/potong-kertas/fortis-mpkfmp490st" class="underline">FORTIS 490 ST</a>, mesin potong kertas elektrik yang dirancang dengan teknologi modern untuk kebutuhan industri percetakan. Mesin ini menggunakan sistem electrical motor press dengan pendorong kertas elektrik untuk operasi yang efisien.
+            </p>
+            <p class="text-justify mt-4">
+              Mesin ini dilengkapi dengan layar touchscreen 7 inch dan sistem memori multiple untuk kemudahan pengoperasian. Dengan fitur keamanan infra red sensor, mesin ini menjamin keselamatan operator selama penggunaan.
+            </p>
+            <h2 class="font-semibold mt-4">Keunggulan:</h2>
+            <ul class="list-disc pl-4">
+              <li>Kapasitas potong lebar hingga 490 mm</li>
+              <li>Tinggi tumpukan kertas maksimal 80 mm</li>
+              <li>Akurasi pemotongan presisi (±0.4 mm)</li>
+              <li>Sistem press elektrik untuk hasil konsisten</li>
+              <li>Layar touchscreen 7 inch untuk kontrol mudah</li>
+              <li>Multiple memory untuk penyimpanan program</li>
+              <li>Sensor infra merah untuk keamanan</li>
+              <li>Pendorong kertas elektrik otomatis</li>
+              <li>Konstruksi kokoh dengan berat 231 kg</li>
+              <li>Operasi yang aman dan efisien</li>
+            </ul>
+          </div>
+          <div class="my-[1.875rem]">
+            <h2 class="text-xl font-semibold text-gray-800">FORTIS BM-600 A3 MESIN JILID BUKU OTO A3 BM600</h2>
+            <a href="https://vicentra.co.id/product/mesin/finishing/book-binding/fortis-mjboa3" class="detail_produk" target="_blank">
+              <figure class="mt-4">
+                <img src="https://vicentra.co.id/storage/product-medias/017-web-book-binding-bm-600.webp"
+                  alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full lg:w-[50%]">
+                <figcaption class="text-center">book-binding-fortis-bm-600-a3</figcaption>
+              </figure>
+            </a>
+            <p class="text-justify mt-4">
+              Ingin hasil jilid buku yang rapi dan profesional? <a href="https://vicentra.co.id/product/mesin/finishing/book-binding/fortis-mjboa3" class="underline">FORTIS BM-600 A3</a> menawarkan kemudahan dan efisiensi dalam proses penjilidan. Cocok untuk usaha percetakan buku, majalah, atau laporan tahunan.
+            </p>
+            <p class="text-justify mt-4">
+              Kami perkenalkan <a href="https://vicentra.co.id/product/mesin/finishing/book-binding/fortis-mjboa3" class="underline">FORTIS BM-600 A3</a>, mesin binding otomatis profesional yang dirancang untuk industri percetakan dan finishing buku. Mesin ini menggunakan sistem double roller dan side glue roller yang dilengkapi dengan teknologi milling cutter ganda untuk hasil yang maksimal.
+            </p>
+            <p class="text-justify mt-4">
+              Mesin ini dapat memproses binding dengan panjang maksimal 420 mm dan ketebalan hingga 60 mm. Dilengkapi dengan fitur tri-folding dan sistem milling ganda (Small Milling Cutter + Sun Milling Cutter) untuk hasil pengerjaan yang presisi dan rapi.
+            </p>
+            <h2 class="font-semibold mt-4">Keunggulan:</h2>
+            <ul class="list-disc pl-4">
+              <li>Kapasitas produksi tinggi hingga 350 buku/jam</li>
+              <li>Sistem double roller dan side glue roller untuk aplikasi lem yang merata</li>
+              <li>Teknologi milling ganda untuk hasil potong yang presisi</li>
+              <li>Fitur tri-folding untuk fleksibilitas pengerjaan</li>
+              <li>Waktu leleh lem yang efisien (≤45 menit)</li>
+              <li>Konstruksi kokoh dengan berat 262 kg</li>
+              <li>Performa tinggi dengan daya 2200 Watt</li>
+              <li>Hasil binding profesional dan tahan lama</li>
+            </ul>
+          </div>
+          <div class="my-[1.875rem]">
+            <h2 class="text-xl font-semibold text-gray-800">FORTIS 720 Mesin Gluing 720</h2>
+            <a href="https://vicentra.co.id/product/mesin/finishing/gluing/fortis-mg720" class="detail_produk" target="_blank">
+              <figure class="mt-4">
+                <img src="https://vicentra.co.id/storage/product-medias/043-web-mesin-gluing-720.webp"
+                  alt="printer-indoor-neu-jet-mpehp1601" class="mx-auto rounded-lg w-full lg:w-[50%]">
+                <figcaption class="text-center">mesin-gluing-fortis-720</figcaption>
+              </figure>
+            </a>
+            <p class="text-justify mt-4">
+              Untuk kebutuhan pelipatan dan penyegelan, <a href="https://vicentra.co.id/product/mesin/finishing/gluing/fortis-mg720" class="underline">FORTIS 720</a> adalah solusi andal yang memastikan hasil akhir sempurna. Ideal untuk usaha percetakan kemasan, amplop, atau produk sejenis. Klik gambar untuk mengetahui lebih lanjut.
+            </p>
+            <p class="text-justify mt-4">
+              <a href="https://vicentra.co.id/product/mesin/finishing/gluing/fortis-mg720" class="underline">FORTIS 720</a> adalah mesin laminating profesional dengan lebar media hingga 720 mm, cocok untuk kebutuhan finishing cetak seperti laminasi poster, banner, atau dokumen penting. Mesin ini memiliki kecepatan variabel hingga 30 meter per menit, memastikan efisiensi dalam proses produksi tanpa mengorbankan kualitas hasil.
+            </p>
+            <p class="text-justify mt-4">
+              Mesin ini menggunakan daya hemat energi sebesar 120 Watt dan beroperasi pada tegangan 220 V dengan frekuensi 50-60 Hz. Dengan dimensi ringkas 940 × 410 × 960 mm dan bobot hanya 55 kg, mesin ini mudah ditempatkan di berbagai ruang kerja tanpa memakan banyak tempat.
+            </p>
+            <h2 class="font-semibold mt-4">Keunggulan:</h2>
+            <ul class="list-disc pl-4">
+              <li>Lebar Media Besar Mendukung laminasi media hingga lebar 720 mm untuk berbagai kebutuhan cetak.</li>
+              <li>Kecepatan Variabel Kecepatan hingga 30 meter per menit yang dapat disesuaikan sesuai kebutuhan.</li>
+              <li>Hemat Energi Konsumsi daya rendah hanya 120 Watt, cocok untuk penggunaan jangka panjang.</li>
+              <li>Desain Ringkas dan Portabel Dimensi yang kompak dengan bobot ringan memudahkan penempatan dan pemindahan.</li>
+              <li>Kinerja Stabil Didukung sistem yang dirancang untuk hasil laminasi berkualitas tinggi dan presisi.</li>
+            </ul>
           </div>
           <div class="my-[1.875rem]">
             <h2 class="font-semibold">Tren Terkini dalam Industri Percetakan</h2>
