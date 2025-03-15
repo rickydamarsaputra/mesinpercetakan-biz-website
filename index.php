@@ -115,9 +115,13 @@ require_once('const.php');
             <figcaption class="text-center">unboxing dan uji coba mesin cnc laser co2 fortis ntl 1390</figcaption>
           </figure>
           <div class="mt-[1.875rem]">
-            <p class="text-justify">
-              Apakah Anda sedang mencari mesin percetakan yang andal untuk meningkatkan kualitas dan efisiensi bisnis Anda? Kami telah mengumpulkan beberapa rekomendasi mesin percetakan terbaik, mulai dari mesin cetak offset, mesin digital printing, hingga mesin cetak spanduk dan mesin cetak stiker yang cocok untuk berbagai kebutuhan. Temukan pilihan mesin percetakan murah dengan kualitas tinggi dari berbagai distributor mesin percetakan terpercaya. Kami juga menyediakan informasi mengenai harga mesin percetakan terbaru serta tempat jual mesin percetakan yang bisa Anda pertimbangkan. Yuk, simak daftarnya di bawah ini dan pilih mesin yang paling sesuai untuk bisnis Anda!
-            </p>
+            <p class="text-justify mb-4">Apakah Anda sedang mencari <strong>mesin percetakan</strong> yang andal untuk meningkatkan kualitas dan efisiensi bisnis Anda? Kami telah mengumpulkan beberapa rekomendasi <strong>mesin percetakan terbaik</strong>, mulai dari <strong>mesin cetak offset</strong>, <strong>mesin digital printing</strong>, hingga <strong>mesin cetak spanduk</strong> dan <strong>mesin cetak stiker</strong> yang cocok untuk berbagai kebutuhan usaha percetakan.</p>
+
+            <p class="text-justify mb-4">Temukan berbagai pilihan <strong>mesin percetakan murah</strong> dengan kualitas tinggi dari <strong>distributor mesin percetakan</strong> terpercaya. Kami juga menyediakan informasi lengkap mengenai <strong>harga mesin percetakan</strong> terbaru serta rekomendasi tempat <strong>jual mesin percetakan</strong> yang bisa Anda pertimbangkan.</p>
+
+            <p class="text-justify mb-4">Jangan lewatkan kesempatan untuk mendapatkan <strong>mesin digital printing</strong>, <strong>mesin cetak offset</strong>, maupun <strong>mesin cetak spanduk</strong> dan stiker dengan teknologi terbaik untuk mendukung bisnis Anda. Yuk, simak daftar lengkapnya di bawah ini dan pilih <strong>mesin percetakan</strong> yang paling sesuai dengan kebutuhan Anda!</p>
+
+            <h2 class="text-sm font-semibold capitalize">Keywords: <span class="font-normal">Mesin Percetakan, Mesin Cetak Offset, Mesin Digital Printing, Mesin Cetak Spanduk, Mesin Cetak Stiker, Mesin Percetakan Murah, Jual Mesin Percetakan, Harga Mesin Percetakan, Distributor Mesin Percetakan, Mesin Percetakan Terbaik</span></h2>
           </div>
           <div class="my-[1.875rem]">
             <h2 class="text-xl font-semibold text-gray-800">NEU Jet C4K MESIN PRINTER OUTDOOR C4K 512i</h2>
@@ -405,6 +409,7 @@ require_once('const.php');
     <!-- FOOTER -->
   </div>
 
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
   <script defer type="module" src="./assets/js/app.js"></script>
 </body>
 
